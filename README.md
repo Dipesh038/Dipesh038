@@ -1,4 +1,4 @@
-##Hello (Namata) Everyone
+## Hello (Namata) Everyone
 
 I’m 👱🏻‍♂️ a third-year **Computer Science** student who loves coding and creating cool stuff.<br>
 I usually work with **C**, **Java**, and **C++**.<br>
