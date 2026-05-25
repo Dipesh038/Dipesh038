@@ -33,19 +33,25 @@
 - Contributing to open source
 
 ---
-
 ## 📫 Let's Connect
 
 [
 
-![LinkedIn](https://img.shields.io/badge/LinkedIn-Dipesh_Kunwar-blue?logo=linkedin)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-Dipesh_Kunwar-blue?logo=linkedin&style=flat-square)
 
 ](https://www.linkedin.com/in/dipesh-kunwar-a09894322/)
 [
 
-![GitHub](https://img.shields.io/badge/GitHub-Dipesh038-black?logo=github)
+![GitHub](https://img.shields.io/badge/GitHub-Dipesh038-black?logo=github&style=flat-square)
 
 ](https://github.com/Dipesh038)
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Dipesh038&show_icons=true&theme=tokyonight" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dipesh038&theme=tokyonight" />
+</p>
 
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
