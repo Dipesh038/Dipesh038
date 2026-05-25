@@ -1,81 +1,42 @@
-<h1 align="center">Hey, I'm Dipesh👋</h1>
-<h3 align="center">Full-Stack Developer · CS Student </h3>
+<div align="center">
 
-<p align="center">
-  I build full-stack web apps with clean UIs and solid backends.<br/>
-  Currently a 3rd-year Computer Science student obsessed with shipping real products.
-</p>
-
----
-
-## 🧰 Tech Stack
-
-**Languages:** JavaScript · TypeScript · Java · C/C++  
-**Frontend:** React · HTML/CSS · Tailwind  
-**Backend:** Node.js · Express  
-**Tools:** Git · GitHub · VS Code
-
----
-
-## 🚀 Featured Projects
-
-| Project | Description | Tech |
-|--------|-------------|------|
-| [🎬 Cinema Booking](https://github.com/Dipesh038/Cinema-Booking) | Full-stack movie seat booking app | JavaScript |
-| [📺 Streaming Webseries](https://github.com/Dipesh038/StreamingWebseries) | Web series streaming platform | TypeScript |
-| [🤖 AI App](https://github.com/Dipesh038/AI) | AI-powered web application | JavaScript |
-
----
-
-## 🌱 Currently Working On
-- Deepening my React + Node.js full-stack skills
-- Building projects I can ship and share publicly
-- Contributing to open source
-
----
-## 📫 Let's Connect
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Dipesh%20Kunwar&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20·%20CS%20Student%20·%20Nepal%20🇳🇵&descSize=18&descAlignY=58&animation=fadeIn" />
 
 [
 
-![LinkedIn](https://img.shields.io/badge/LinkedIn-Dipesh_Kunwar-blue?logo=linkedin&style=flat-square)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+things+that+live+on+the+web;React+%2B+Node.js+%2B+TypeScript;Open+to+remote+internships+%26+collabs;Always+shipping%2C+always+learning)
+
+](https://git.io/typing-svg)
+
+
+
+![Profile Views](https://komarev.com/ghpvc/?username=Dipesh038&color=a78bfa&style=flat-square&label=PROFILE+VIEWS)
+
+
+[
+
+![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)
 
 ](https://www.linkedin.com/in/dipesh-kunwar-a09894322/)
 [
 
-![GitHub](https://img.shields.io/badge/GitHub-Dipesh038-black?logo=github&style=flat-square)
+![GitHub followers](https://img.shields.io/github/followers/Dipesh038?style=flat-square&color=a78bfa&label=Followers)
 
 ](https://github.com/Dipesh038)
-## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dipesh038&show_icons=true&theme=tokyonight" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dipesh038&theme=tokyonight" />
-</p>
+</div>
 
+---
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
+### 👋 Hey, I'm Dipesh
 
-
-
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square)
-
-
-
-
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=flat-square)
-
-
-
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=flat-square)
-
-
-
-
-![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=flat-square)
-
-![Profile Views](https://komarev.com/ghpvc/?username=Dipesh038&color=blue&style=flat-square)
-
-<img src="https://raw.githubusercontent.com/Dipesh038/Dipesh038/output/github-contribution-grid-snake-dark.svg" />
+```javascript
+const dipesh = {
+  role:      "Full-Stack Developer",
+  study:     "CS @ 3rd Year",
+  location:  "Kathmandu, Nepal 🇳🇵",
+  focus:     ["React", "Node.js", "TypeScript"],
+  currently: "Shipping real products",
+  goal:      "Remote internships & collabs",
+  funFact:   "I commit at midnight 🌙"
+};
