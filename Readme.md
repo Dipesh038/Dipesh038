@@ -1,5 +1,5 @@
-<h1 align="center">Hey, I'm Dipesh Kunwar 👋</h1>
-<h3 align="center">Full-Stack Developer · CS Student · Based in Nepal 🇳🇵</h3>
+<h1 align="center">Hey, I'm Dipesh👋</h1>
+<h3 align="center">Full-Stack Developer · CS Student </h3>
 
 <p align="center">
   I build full-stack web apps with clean UIs and solid backends.<br/>
