@@ -79,16 +79,15 @@ const dipesh = {
 </div>
 
 ---
-
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Dipesh038&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=ffffff&rank_icon=github" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dipesh038&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=ffffff" />
-</div>
 
-<div align="center">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Dipesh038&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Dipesh038&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=ffffff&rank_icon=github&border_radius=10" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dipesh038&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=ffffff&border_radius=10" />
+
+<img width="70%" src="https://streak-stats.demolab.com?user=Dipesh038&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=FF6B6B&currStreakLabel=A78BFA&border_radius=10" />
+
 </div>
 
 ---
@@ -143,7 +142,5 @@ const dipesh = {
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
-
-**💜 Thanks for visiting! Drop a ⭐ if you like my work**
 
 </div>
