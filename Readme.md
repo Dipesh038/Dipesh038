@@ -46,18 +46,6 @@
 ![GitHub](https://img.shields.io/badge/GitHub-Dipesh038-black?logo=github)
 
 ](https://github.com/Dipesh038)
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dipesh038&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dipesh038&layout=compact&theme=tokyonight" />
-</p>
-
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dipesh038&theme=tokyonight" />
-</p>
 
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
