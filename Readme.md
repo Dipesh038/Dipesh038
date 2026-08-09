@@ -18,8 +18,8 @@
   AI-powered dental screening web app.
 - 🤖 [**AI App**](https://github.com/Dipesh038/AI) 
   AI-powered web application for automating workflows.
-- 📺 [**Streaming Webseries**](https://github.com/Dipesh038/StreamingWebseries) 
-  Web series streaming platform with a modern UI.
+- 📊 [**Smart Leads Dashboard**](https://smart-leads-dashboard-orpin-rho.vercel.app/login) 
+  Dashboard for tracking and managing sales leads.
 - 🎬 [**Cinema Booking**](https://github.com/Dipesh038/Cinema-Booking) 
   Full-stack movie seat booking with real-time selection.
 
