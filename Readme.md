@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HEAVILY ANIMATED BANNER (Anime/Coding aesthetic) -->
-<img width="100%" src="GITHUB_BANNER.gif" alt="Animated Banner" />
+<img width="518" height="172" src="GITHUB_BANNER.gif" alt="Animated Banner" />
 
 <br/><br/>
 
