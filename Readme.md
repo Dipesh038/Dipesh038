@@ -1,4 +1,4 @@
-<img width="1283" height="400" alt="image" src="https://github.com/user-attachments/assets/1410b29c-ec3a-42d7-b2fb-4ef3ba971efe" /><div align="center">
+<div align="center">
 
 <!-- HEAVILY ANIMATED BANNER (Anime/Coding aesthetic) -->
 <img width="100%" src="GITHUB_BANNER.gif" alt="Animated Banner" />
@@ -8,18 +8,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=30&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Dipesh;Building+things+that+live+on+the+web;Full-Stack+Developer+%7C+CS+Student" alt="Typing SVG" /></a>
 
 </div>
-
----
-
-### 🔗 Know About Me
-
-<a href="#"><img align="left" width="220" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" alt="Animated Brain" /></a>
-
-**Hey there! I'm Dipesh.**
-
-I'm a CS undergrad fueled by caffeine and an unhealthy obsession with minimalist dark themes. By day, I pretend to understand the universe and complex computer science theories. By night, I write React and Node.js to automate myself out of doing actual work. When I'm not coding, I'm usually shipping real products or treating my small side-projects like highly stressful Fortune 500 companies.
-
-<br clear="left"/>
 
 ---
 
