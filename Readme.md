@@ -1,114 +1,91 @@
 <div align="center">
 
-<!-- ANIMATED HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Dipesh%20Kunwar&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20·%20CS%20Student%20&descSize=18&descAlignY=58&animation=fadeIn" />
+<!-- Animated header banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f1e,50:4af2c8,100:a78bfa&height=200&section=header&text=Dipesh%20Kunwar&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Developer%20%7C%20Three.js%20%7C%20TypeScript&descAlignY=58&descSize=18&animation=fadeIn" width="100%" />
 
-<!-- TYPING ANIMATION -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+things+that+live+on+the+web;React+%2B+Node.js+%2B+TypeScript;Open+to+remote+internships+%26+collabs;Always+shipping%2C+always+learning)](https://git.io/typing-svg)
-
-<br/>
-
-<!-- PROFILE VIEWS + SOCIAL BADGES -->
-![Profile Views](https://komarev.com/ghpvc/?username=Dipesh038&color=a78bfa&style=flat-square&label=PROFILE+VIEWS)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dipesh-kunwar-a09894322/)
-[![GitHub followers](https://img.shields.io/github/followers/Dipesh038?style=flat-square&color=a78bfa&label=Followers)](https://github.com/Dipesh038)
+<!-- Typing animation -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=800&color=4AF2C8&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=60&lines=Building+accessible%2C+performant+interfaces;TypeScript+%7C+Three.js+%7C+HTML+%2F+CSS+%7C+Java;On+a+journey+to+become+a+great+human+being..." />
 
 </div>
 
 ---
 
-<img align="right" width="340" src="https://raw.githubusercontent.com/Dipesh038/Dipesh038/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+### Namaste 🙏
 
-### 👋 Hey, I'm Dipesh
+Hi, I'm **Dipesh** — an enthusiastic developer from the vibrant valleys of **Nepal** 🇳🇵
 
-```javascript
-const dipesh = {
-  role:     "Full-Stack Developer",
-  study:    "CS @ 3rd Year",
-  focus:    ["React", "Node.js", "TypeScript"],
-  currently: "Shipping real products",
-  goal:      "Remote internships & collabs",
-  funFact:   "I commit at midnight 🌙"
-};
-```
+Technology has always fascinated me, and I've immersed myself in the captivating world of web development. My purpose? Building applications that make a real difference in people's lives.
 
-> **2026 focus:** leveling up React + Node.js architecture skills, shipping projects worth showing, and finding a remote internship where I can learn from a real team.
+I'm currently a CS student at **Pandit Deendayal Energy University**, exploring the intersection of clean engineering and visual craft.
 
-<br clear="right"/>
+I am very passionate about:
+- Web Development 💻 & Programming 🧠
+- Robotics 🤖 & AI 🔬
+- Science 🔬 & Mathematics 📐, and much more…
 
 ---
 
-## 📊 GitHub Stats
+### Present Status 🌱
 
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Dipesh038&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Dipesh038&theme=tokyonight&hide_border=true&background=0d1117" />
-
-</div>
+- 🔥 Learning React & AI-Driven frontend development
+- 🤝 Managing Tech Communities & Organizing Events
+- 🌐 Building a personal brand — **[portfoliodipeshkunwar.vercel.app](https://portfoliodipeshkunwar.vercel.app)**
+- 🛠 Building & Contributing to Open Source Projects
 
 ---
 
-## ⚡ Tech Stack
+### 🚀 Featured Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| [🎬 Movie App](https://moviegetstore.vercel.app/) | Movie discovery platform with intuitive browsing UI | TypeScript, HTML, CSS |
+| [🌐 3D Portfolio](https://portfoliodipeshkunwar.vercel.app/) | Interactive portfolio with Three.js particle field | Three.js, JS, CSS |
+| [🎟 Cinema Booking](https://github.com/Dipesh038/Cinema-Booking) | Seat booking system, 6-step flow reduced to 3 | JS, HTML, LocalStorage |
+
+---
+
+### 🛠 Tech Stack
 
 <div align="center">
-
-**Languages**
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-**Backend & Tools**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
+### 📊 GitHub Stats
 
 <div align="center">
 
-| 🎬 | Project | What it does | Stack |
-|:--:|---------|-------------|-------|
-| 🎥 | [**Cinema Booking**](https://github.com/Dipesh038/Cinema-Booking) | Full-stack movie seat booking with real-time selection | `JavaScript` |
-| 📺 | [**Streaming Webseries**](https://github.com/Dipesh038/StreamingWebseries) | Web series streaming platform with modern UI | `TypeScript` |
-| 🤖 | [**AI App**](https://github.com/Dipesh038/AI) | AI-powered web application | `JavaScript` |
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Dipesh038&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4af2c8&icon_color=a78bfa&text_color=c8d0e7&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dipesh038&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4af2c8&text_color=c8d0e7&langs_count=6" />
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Dipesh038&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=4af2c8&fire=a78bfa&currStreakLabel=4af2c8)](https://git.io/streak-stats)
 
 </div>
 
 ---
 
-
-## 🌱 Currently Working On
-
-- 🔨 Deepening **React + Node.js** full-stack skills
-- 🚢 Building projects I can **ship and share publicly**
-- 🌍 Looking for **remote internships & collaborations**
-- ⭐ Starting to **contribute to open source**
-
----
-
-## 📫 Let's Connect
+### 🤝 Connect With Me
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/dipesh-kunwar-a09894322/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/Dipesh038)
-[![Email](https://img.shields.io/badge/Email-Say_Hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dipeshkunwar8@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dipesh-kunwar-a09894322/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dipesh038)
+[![Portfolio](https://img.shields.io/badge/Portfolio-4AF2C8?style=for-the-badge&logo=vercel&logoColor=black)](https://dipeshkunwar.engineer/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dipeshkunwar8@gmail.com)
 
 </div>
 
@@ -116,12 +93,8 @@ const dipesh = {
 
 <div align="center">
 
-<!-- SNAKE ANIMATION -->
-<img src="https://raw.githubusercontent.com/Dipesh038/Dipesh038/output/github-contribution-grid-snake-dark.svg" width="100%" alt="contribution snake" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:a78bfa,50:4af2c8,100:0a0f1e&height=100&section=footer" width="100%"/>
 
-<!-- FOOTER WAVE -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" />
-
-*"Code is like humor. When you have to explain it, it's bad."*
+*"On a journey to become a great human being…"* 🌱
 
 </div>
