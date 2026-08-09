@@ -14,14 +14,16 @@
 
 <a href="#"><img align="right" width="200" src="https://media.giphy.com/media/Lopx9eUi34rbq/giphy.gif" alt="Animated Flame" /></a>
 
-- 🎬 [**Cinema Booking**](https://github.com/Dipesh038/Cinema-Booking) 
-  Full-stack movie seat booking with real-time selection.
-- 📺 [**Streaming Webseries**](https://github.com/Dipesh038/StreamingWebseries) 
-  Web series streaming platform with a modern UI.
-- 🤖 [**AI App**](https://github.com/Dipesh038/AI) 
-  AI-powered web application for automating workflows.
 - 🦷 [**Clinic AI Dental Screening**](https://clinic-ai-dental-screening.vercel.app/) 
   AI-powered dental screening web app.
+- 🤖 [**AI App**](https://github.com/Dipesh038/AI) 
+  AI-powered web application for automating workflows.
+- 📺 [**Streaming Webseries**](https://github.com/Dipesh038/StreamingWebseries) 
+  Web series streaming platform with a modern UI.
+- 🎬 [**Cinema Booking**](https://github.com/Dipesh038/Cinema-Booking) 
+  Full-stack movie seat booking with real-time selection.
+
+
 
 <br clear="right"/>
 
