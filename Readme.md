@@ -32,7 +32,20 @@ const dipesh = {
 };
 ```
 
+> **2026 focus:** leveling up React + Node.js architecture skills, shipping projects worth showing, and finding a remote internship where I can learn from a real team.
+
 <br clear="right"/>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Dipesh038&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Dipesh038&theme=tokyonight&hide_border=true&background=0d1117" />
+
+</div>
 
 ---
 
@@ -110,25 +123,5 @@ const dipesh = {
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" />
 
 *"Code is like humor. When you have to explain it, it's bad."*
-
-</div>
-🚢  Building projects I can ship and share publicly  
-🌍  Looking for remote internships & collaborations
-⭐  Starting to contribute to open source
-```
-
----
-
-## 🐍 My Contributions
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/Dipesh038/Dipesh038/output/github-contribution-grid-snake-dark.svg" width="100%" alt="snake"/>
-</div>
-
----
-
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
 
 </div>
