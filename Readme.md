@@ -20,6 +20,8 @@
   Web series streaming platform with a modern UI.
 - 🤖 [**AI App**](https://github.com/Dipesh038/AI) 
   AI-powered web application for automating workflows.
+- 🦷 [**Clinic AI Dental Screening**](https://clinic-ai-dental-screening.vercel.app/) 
+  AI-powered dental screening web app.
 
 <br clear="right"/>
 
