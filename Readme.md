@@ -1,7 +1,7 @@
-<div align="center">
+<img width="1283" height="400" alt="image" src="https://github.com/user-attachments/assets/1410b29c-ec3a-42d7-b2fb-4ef3ba971efe" /><div align="center">
 
 <!-- HEAVILY ANIMATED BANNER (Anime/Coding aesthetic) -->
-<img width="100%" src="gitfile/GITHUB_BANNER.gif" alt="Animated Banner" />
+<img width="100%" src="GITHUB_BANNER.gif" alt="Animated Banner" />
 
 <br/><br/>
 
